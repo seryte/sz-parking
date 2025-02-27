@@ -2,12 +2,13 @@
 <img src="https://github.com/RyanChen1997/sz-parking/blob/main/static/logo.png" width="180" height="180"> 
 </div>
 
-
-
-![Static Badge](https://img.shields.io/badge/Python-3.10-blue)
-![Static Badge](https://img.shields.io/badge/MacOS-green?style=plastic)
-![Static Badge](https://img.shields.io/badge/QQ-1009569931-white?style=plastic&logo=qq)
-![Static Badge](https://img.shields.io/badge/Email-yongxiangchen69%40gmail.com-8A2BE2?style=plastic&logo=amazonsimpleemailservice&logoColor=white)
+<div align=center>
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-3.10-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Email-yongxiangchen69%40gmail.com-8A2BE2?style=plastic&logo=amazonsimpleemailservice&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/MacOS-green">
+<img alt="Static Badge" src="https://img.shields.io/badge/QQ-1009569931-white?logo=qq">
+<img alt="Static Badge" src="https://img.shields.io/badge/Email-yongxiangchen69.gmail.com-8A2BE2?logo=amazonsimpleemailservice">
+</div>
 
 
 
