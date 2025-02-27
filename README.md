@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://github.com/RyanChen1997/sz-parking/blob/main/static/logo.png" width="180" height="105"> 
+<img src="https://github.com/RyanChen1997/sz-parking/blob/main/static/logo.png" width="180" height="180"> 
 </div>
 
 
