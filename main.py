@@ -29,15 +29,15 @@ def main():
     result = hdlr.search_reservation()
     print(result)
 
-    result = hdlr.reserve_until_timeout(
-        park=args.park,
-        park_name=args.parkname,
-        car_no=args.carno,
-        phone=args.phone,
-        duration_min=args.duration_min
-    )
+    # result = hdlr.reserve_until_timeout(
+    #     park=args.park,
+    #     park_name=args.parkname,
+    #     car_no=args.carno,
+    #     phone=args.phone,
+    #     duration_min=args.duration_min
+    # )
 
-    print(result)
+    # print(result)
 
 if __name__ == "__main__":
     main()
