@@ -1,3 +1,9 @@
+<div align=center>
+<img src="https://github.com/RyanChen1997/sz-parking/blob/main/static/logo.png" width="180" height="105"> 
+</div>
+
+
+
 ![Static Badge](https://img.shields.io/badge/Python-3.10-blue)
 ![Static Badge](https://img.shields.io/badge/MacOS-green?style=plastic)
 ![Static Badge](https://img.shields.io/badge/QQ-1009569931-white?style=plastic&logo=qq)
