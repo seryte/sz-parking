@@ -67,7 +67,7 @@ options:
 
 
 # 免责声明
-仅个人使用！仅个人使用！仅个人使用！请勿商用。
+仅学习！仅学习！仅学习！请勿商用。
 
 # 联系我
 email: yongxiangchen69@outlook.com\
