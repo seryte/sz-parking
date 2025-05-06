@@ -2,7 +2,7 @@
 
 # 支持的功能
 1. 自动识别和提交数字验证码；
-2. 预约成功后车位有效期1个小时；
+2. 预约成功后有效期1个小时；
 3. 可调整最长等待时间。
 
 # 运行环境
@@ -37,7 +37,7 @@ options:
                         Duration in minutes
 ```
 
-`python main.py --oneid {one_id} --authorization {authorization} --xtoken {x-token} --cookie {cookie} --source 公众号 --park 深圳湾公园 --parkname 深圳湾公园-日出剧场5号停车场 --carno {车牌号} --phone {手机号}`
+`python main.py --oneid {one_id} --authorization {authorization} --xtoken {x-token} --cookie {cookie} --source 公众号 --park 公园 --parkname 公园-日出剧场5号 --carno {} --phone {}`
 
 需要提供信息：
 1. one_id：，抓包获取。
@@ -47,7 +47,7 @@ options:
 5. source：公众号或者小程序。
 6. park：（在公众号或者小程序中查看）。
 7. parkname：（在公众号或者小程序中查看）。
-8. carno：车牌号。
+8. carno：车号。
 9. phone：手机号。
 
 
