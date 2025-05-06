@@ -10,7 +10,7 @@
 2. MacOS（我自己上mac电脑，其他系统应该也行，但是没有测试过）
 
 # 怎么用？
-`git clone https://github.com/RyanChen1997/sz-parking.git` 
+`git clone 此仓库地址` 
 
 `cd sz-parking`
 
